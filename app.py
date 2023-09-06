@@ -14,8 +14,6 @@ import os
 # import smtplib
 
 # Load enviroment variables from .env file
-load_dotenv()
-
 '''
 Make sure the required packages are installed: 
 Open the Terminal in PyCharm (bottom left). 
